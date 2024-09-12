@@ -1,5 +1,4 @@
 
-
 class Solution{
 public:
     int countOdd(int arr[], int n){
