@@ -1,5 +1,6 @@
 TUF+ NOTES SECTION:
 
+[CPP BASICS]
 1] #include<bits/stdc++.h> [Libraries that you dont need are also compiling so the compilation time might be slightly more]
 
 
