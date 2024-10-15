@@ -1,5 +1,4 @@
-
-|class Solution {
+class Solution {
 public:
     bool isPerfect(int n) {
         int sum=0;
